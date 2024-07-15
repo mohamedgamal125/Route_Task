@@ -15,5 +15,5 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![CHEESE!]{https://github.com/user-attachments/assets/9f4ae4e8-bfb9-40d1-a745-c1318649e0a1}
-![CHEESE!]{https://github.com/user-attachments/assets/10736996-7175-4e0e-8b22-cb5ef40b260a}
+![CHEESE!](https://github.com/user-attachments/assets/9f4ae4e8-bfb9-40d1-a745-c1318649e0a1)
+![CHEESE!](https://github.com/user-attachments/assets/10736996-7175-4e0e-8b22-cb5ef40b260a)
