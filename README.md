@@ -15,4 +15,4 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![CHEESE!]{F:\college\Flutter\projects\route_task\assets\Screenshot_٢٠٢٤٠٧١٥_٠٤١٧٠٤.jpg}
+![CHEESE!]{assets\Screenshot_٢٠٢٤٠٧١٥_٠٤١٧٠٤.jpg}
