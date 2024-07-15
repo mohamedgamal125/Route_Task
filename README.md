@@ -2,18 +2,18 @@
 
 A new Flutter project.
 
-## Getting Started
+## Project Structure
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+(https://github.com/user-attachments/assets/aa8968c8-7449-4844-95bf-7eb9c3033ea1)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 
-![CHEESE!](https://github.com/user-attachments/assets/9f4ae4e8-bfb9-40d1-a745-c1318649e0a1)
-![CHEESE!](https://github.com/user-attachments/assets/10736996-7175-4e0e-8b22-cb5ef40b260a)
+## Screenshots
+![CHEESE!](https://github.com/user-attachments/assets/87909edd-169d-45f1-bc35-28833b8a78cd)
+![CHEESE!](https://github.com/user-attachments/assets/360e3d3b-3228-492a-8576-4bba877b8de1)
+
+
+## Dependencies
+
+![CHEESE!](https://github.com/user-attachments/assets/adc44a72-2174-495e-9adf-7e588f0f611d)
